@@ -8,7 +8,7 @@
 
 #import "NextViewController.h"
 #import "ViewController.h"
-#import "TransparentNavigationDemo-Swift.h"
+#import <TransparentNavigation/TransparentNavigation-Swift.h>
 
 @interface NextViewController () <UICollectionViewDataSource, UICollectionViewDelegate>
 

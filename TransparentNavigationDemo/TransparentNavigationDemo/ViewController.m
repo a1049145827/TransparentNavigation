@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "NextViewController.h"
-#import "TransparentNavigationDemo-Swift.h"
+#import <TransparentNavigation/TransparentNavigation-Swift.h>
 
 @interface ViewController ()
 

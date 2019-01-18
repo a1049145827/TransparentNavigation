@@ -1,0 +1,16 @@
+PODS:
+  - TransparentNavigation (1.0.0)
+
+DEPENDENCIES:
+  - TransparentNavigation
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TransparentNavigation
+
+SPEC CHECKSUMS:
+  TransparentNavigation: 92fe6163efea3b20b4beb962b1d74d3c3e90e0f5
+
+PODFILE CHECKSUM: 954ba7eb48d846a30c65a0f4ce49477074f9002f
+
+COCOAPODS: 1.5.3
