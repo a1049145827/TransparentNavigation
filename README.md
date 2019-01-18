@@ -8,12 +8,28 @@ iOS Transparent NavigationBar
 - [x] Fluent switching when the gesture slides back
 - [x] System adaptation for iOS8+
 
+## Example
+
+![example](https://github.com/a1049145827/TransparentNavigation/raw/master/TransparentNavigation.gif)
+
 ## Installation
 
 cocoapods:
 
 ```
 pod 'TransparentNavigation'
+```
+
+## Usage
+
+set the alpha in viewController's function: `-viewWillAppear:` likes the demo
+
+```objc
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    self.navBarBgAlpha = @1;
+}
 ```
 
 
